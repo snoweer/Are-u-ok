@@ -6,10 +6,10 @@
 | AdGuardHome | AdGuardHome 去广告 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/AdGuardHome_20211014.run) |
 | GodProxy | GodProxy 去广告 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/GodProxy_20211014.run) |
 | Adblock | Adblock 去广告 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/adblock.run) |
-| OpenClash | OpenClash 科学工具 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/OpenClash_20211028.run) |
-| PassWall | PassWall 科学工具 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/PassWall_20211021.run) |
-| VSSR | HelloWorld 科学工具 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/VSSR_20211021.run) |
-| SSR-Plus | ssr-plus 科学工具 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/SSR-Plus_20211021.run) |
+| OpenClash | OpenClash 科学工具 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/OpenClash_20211101.run) |
+| PassWall | PassWall 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/PassWall_20211101.run) |
+| VSSR | HelloWorld 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/VSSR_20211101.run) |
+| SSR-Plus | ssr-plus 科学工具 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/SSR-Plus_20211101.run) |
 | Argon-theme | Argon主题最新 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/Argon-theme.run) |
 | UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/UnblockNeteaseMusic_20211020.run) |
 | OpenVPN | OpenVPN客户端 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/OpenVPN_20211018.run) |
