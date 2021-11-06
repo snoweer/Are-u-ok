@@ -14,6 +14,8 @@
 | UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/UnblockNeteaseMusic_20211020.run) |
 | OpenVPN | OpenVPN客户端 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/OpenVPN_20211018.run) |
 | OpenVPN-Server | OpenVPN服务端 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/OpenVPN-Server_20211018.run) |
+| JD-dailybonus | 某东签到(扫码早就gg，手动填cookie) | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/all/JD-dailybonus_20211105.run) |
+
 
 #### 如何安装，下载后，iStore手动安装，选择文件安装即可。
 
